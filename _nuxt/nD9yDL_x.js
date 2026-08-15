@@ -1,0 +1,1 @@
+import{F as e,K as t,Tt as n,a as r,jt as i,xt as a}from"./BaEEoViM.js";import{t as o}from"./Cqn-n0uT.js";var s=t({__name:`empty`,setup(t){return r().$globalClass,n(()=>{let e=document.documentElement;e.classList.add(`-loaded`),e.classList.add(`-ready`)}),a(()=>{}),(t,n)=>{let r=o;return i(),e(r)}}});export{s as default};
