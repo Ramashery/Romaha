@@ -1,0 +1,1 @@
+import{o as e}from"./BaEEoViM.js";var t=`https://media.fiddle.digital`,n=()=>(e().public.strapiUrl||t).replace(/\/$/,``),r=()=>{let e=n();return n=>n?n.startsWith(`http`)?e===t?n:n.replace(t,e):`${e}${n}`:``};export{r as t};
